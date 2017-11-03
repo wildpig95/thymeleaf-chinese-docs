@@ -1,5 +1,5 @@
 # thymeleaf-chinese-docs
-Thymeleaf官方文档翻译（Thymeleaf网站：http://www.thymeleaf.org/）
+Thymeleaf官方文档翻译（Thymeleaf网站：[http://www.thymeleaf.org/](http://www.thymeleaf.org/)）
 
 ## 版本
 翻译的是官方文档的3.0版本
